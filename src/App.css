@@ -36,3 +36,38 @@
     transform: rotate(360deg);
   }
 }
+
+.books-column {
+  margin: 0 auto;
+  width: 75%;
+}
+
+.title {
+  margin : 2%;
+}
+
+.nav-books {
+  margin: 2%;
+}
+
+.category-title {
+  margin : 2%;
+}
+
+.list-category {
+  margin : 1%;
+}
+
+.loading {
+  margin : 1%;
+  color: blueviolet;
+}
+
+.error-text {
+  margin : 1%;
+  color: red;
+}
+
+header {
+  height : 100px;
+}
