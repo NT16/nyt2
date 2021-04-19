@@ -9,12 +9,17 @@
 <p>React hooks : useReducer, useState and useEffect</p>
 
 <p>Page 1: Home page</p>
+
 ![Landing page](./demo_img/page1.png)
 
+
 <p>Page 2: Books for the category - Business books</p>
+
 ![Selected category's page showing all the books](./demo_img/page2.png)
 
+
 <p>Page 2, scrolled down</p>
+
 ![book tiles](./demo_img/page2-1.png)
 
 
